@@ -1,4 +1,4 @@
-## 4. CPU Scheduling Using Shortest Job First (SJF)
+## CPU Scheduling Using Shortest Job First (SJF)
 
 ### Problem Statement
 
