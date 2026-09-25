@@ -1,3 +1,12 @@
+# Experiment 2: File Copy Using File Handling
+
+### Problem Statement
+
+Write a C program to **copy the contents of one file into another file** using C file handling functions such as `fopen()`, `fgetc()`, `fputc()`, and `fclose()`.
+
+### Program
+
+```c id="q4m8vd"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -32,14 +41,5 @@ int main()
 
     while (c != EOF)
     {
-        fputc(c, fptr2);
-        c = fgetc(fptr1);
-    }
-
-    printf("\nContents copied to %s\n", filename);
-
-    fclose(fptr1);
-    fclose(fptr2);
-
-    return 0;
-}
+        fputc(c, fptr
+```
