@@ -4,7 +4,8 @@
 
 The application starts by displaying the system title and provides an option to load previously saved resource records.
 
-<img width="855" height="612" alt="WhatsApp Image 2026-09-01 at 10 26 02 AM" src="https://github.com/user-attachments/assets/15da6258-3546-429f-b183-4ad1b3777307" />
+<img width="855" height="612" alt="image" src="https://github.com/user-attachments/assets/ce9683e8-e732-4e02-8079-e0f679523a8f" />
+
 
 
 
@@ -14,7 +15,8 @@ The application starts by displaying the system title and provides an option to 
 
 A new resource can be added by entering its ID, name, category, department, quantity, minimum threshold, and priority. The system automatically determines the resource status.
 
-<img width="535" height="266" alt="WhatsApp Image 2026-09-01 at 10 26 59 AM" src="https://github.com/user-attachments/assets/2590b216-b90e-420d-b219-f23da045ef34" />
+<img width="535" height="266" alt="image" src="https://github.com/user-attachments/assets/e50cf266-9347-4d43-ba03-13c0e61caf06" />
+
 
 
 ---
@@ -23,7 +25,8 @@ A new resource can be added by entering its ID, name, category, department, quan
 
 Existing resource details can be modified. After an update, the system recalculates the resource status based on the updated quantity and threshold.
 
-<img width="576" height="268" alt="WhatsApp Image 2026-09-01 at 10 27 26 AM" src="https://github.com/user-attachments/assets/f9b7a72f-617f-4ae7-826f-d0ac4b234a7b" />
+<img width="576" height="268" alt="image" src="https://github.com/user-attachments/assets/1dc3fc7d-17ac-4e78-ac57-f7d9c3068427" />
+
 
 
 ---
@@ -32,7 +35,8 @@ Existing resource details can be modified. After an update, the system recalcula
 
 The system displays all stored resources in a structured table containing the resource ID, name, category, quantity, threshold, priority, status, and department.
 
-<img width="855" height="237" alt="WhatsApp Image 2026-09-01 at 10 28 13 AM" src="https://github.com/user-attachments/assets/1fa8d6d4-8da3-413b-9b60-29e37306e62e" />
+<img width="855" height="237" alt="image" src="https://github.com/user-attachments/assets/1768d378-41ef-4518-9114-01c78e7c8173" />
+
 
 
 ---
@@ -41,7 +45,8 @@ The system displays all stored resources in a structured table containing the re
 
 Resources can be searched using different criteria such as ID, name, category, or department. The system also provides binary search by ID after automatically sorting the records by ID.
 
-<img width="857" height="377" alt="WhatsApp Image 2026-09-01 at 10 28 52 AM" src="https://github.com/user-attachments/assets/f14f0fc2-369d-4aaf-9aac-06ff1193a0ac" />
+<img width="857" height="377" alt="image" src="https://github.com/user-attachments/assets/78ba68c2-c09b-4ff6-a539-ab0ba7cf4374" />
+
 
 
 ---
@@ -50,7 +55,9 @@ Resources can be searched using different criteria such as ID, name, category, o
 
 The records can be sorted according to quantity, priority, department, or ID. Recursive Quick Sort is used for organizing the resource records.
 
-<img width="580" height="260" alt="WhatsApp Image 2026-09-01 at 10 29 07 AM" src="https://github.com/user-attachments/assets/c84b9747-ad6e-44b3-8a3a-5dd15bcd37d7" />
+<img width="580" height="260" alt="image" src="https://github.com/user-attachments/assets/41e6272c-f408-4269-ba83-ebe1344d7c4b" />
+
+
 
 
 ---
@@ -59,7 +66,8 @@ The records can be sorted according to quantity, priority, department, or ID. Re
 
 The system checks the available records for duplicate resources based on the defined resource identification conditions.
 
-<img width="793" height="152" alt="WhatsApp Image 2026-09-01 at 10 30 03 AM" src="https://github.com/user-attachments/assets/1f2216a7-9ba6-48e7-b8f3-a592e25c36aa" />
+<img width="793" height="152" alt="image" src="https://github.com/user-attachments/assets/782391db-3857-4b67-831c-2dd56eb2b491" />
+
 
 
 ---
@@ -68,7 +76,9 @@ The system checks the available records for duplicate resources based on the def
 
 Duplicate resource records from different departments can be merged. Their quantities are consolidated and the relevant department information is retained.
 
-<img width="592" height="102" alt="WhatsApp Image 2026-09-01 at 10 30 29 AM" src="https://github.com/user-attachments/assets/073d5510-19aa-4100-9786-6f1e2f16edb1" />
+
+<img width="592" height="102" alt="image" src="https://github.com/user-attachments/assets/24cd7ba5-0336-4e39-ab94-40c1180960ae" />
+
 
 
 ---
@@ -77,7 +87,8 @@ Duplicate resource records from different departments can be merged. Their quant
 
 The availability analysis provides a summary of the total number of resources classified as adequate, low-stock, and critical.
 
-<img width="585" height="222" alt="WhatsApp Image 2026-09-01 at 10 32 43 AM" src="https://github.com/user-attachments/assets/920838a7-4e38-4e20-928c-577d75238d4d" />
+<img width="585" height="222" alt="image" src="https://github.com/user-attachments/assets/7b35b35d-4366-4e2d-b656-6f7f1afbe2f2" />
+
 
 
 ---
@@ -86,7 +97,8 @@ The availability analysis provides a summary of the total number of resources cl
 
 The system separately displays resources that are currently critical or below their required stock threshold, making them easier to identify.
 
-<img width="797" height="216" alt="WhatsApp Image 2026-09-01 at 10 32 55 AM" src="https://github.com/user-attachments/assets/c56eadc6-8ff9-49e2-a213-92cd022f126c" />
+<img width="797" height="216" alt="image" src="https://github.com/user-attachments/assets/1b1511f6-be02-41ab-b9a7-06ce41edbd8c" />
+
 
 
 ---
@@ -95,7 +107,11 @@ The system separately displays resources that are currently critical or below th
 
 A consolidated report containing resource statistics and resource details can be generated as a text file for further reference.
 
-<img width="565" height="107" alt="WhatsApp Image 2026-09-01 at 10 33 10 AM" src="https://github.com/user-attachments/assets/41eb3c86-685e-4c9d-b4ac-8fc41bbca570" />
+<img width="565" height="107" alt="image" src="https://github.com/user-attachments/assets/cfba0ec0-c22e-4c04-9311-a654a8fb918f" />
+
+Consolidated Report:
+
+<img width="1097" height="711" alt="image" src="https://github.com/user-attachments/assets/b1a21f2f-3d17-448e-9f10-62eb06144c8b" />
 
 
 ---
@@ -104,7 +120,9 @@ A consolidated report containing resource statistics and resource details can be
 
 The current resource records can be stored in a binary data file so that they can be retrieved during a future program session.
 
-<img width="562" height="107" alt="WhatsApp Image 2026-09-01 at 10 35 29 AM" src="https://github.com/user-attachments/assets/2c747472-b284-4c63-b415-31c525305a00" />
+<img width="562" height="107" alt="image" src="https://github.com/user-attachments/assets/e3de328b-2b34-48a5-8bea-56b3dca7fcf5" />
+
+
 
 
 ---
@@ -113,7 +131,8 @@ The current resource records can be stored in a binary data file so that they ca
 
 Previously saved resource records can be loaded from the data file when the application starts or through the Load Records option.
 
-<img width="538" height="110" alt="WhatsApp Image 2026-09-01 at 10 36 16 AM" src="https://github.com/user-attachments/assets/4eca775e-2fb4-4c1a-9480-8855b619517f" />
+<img width="538" height="110" alt="image" src="https://github.com/user-attachments/assets/7a953ad3-7852-4b74-b113-a95689764780" />
+
 
 
 ---
@@ -121,7 +140,7 @@ Previously saved resource records can be loaded from the data file when the appl
 ## 14. Exit
 
 The application provides an exit option that safely terminates the program after completing the required operations.
-<img width="533" height="60" alt="WhatsApp Image 2026-09-01 at 10 36 43 AM" src="https://github.com/user-attachments/assets/d0ee62c1-03f3-4c83-a3c7-f889d7724cea" />
+
+<img width="533" height="60" alt="image" src="https://github.com/user-attachments/assets/80f2ad46-27e7-49dd-a68a-fde515830311" />
 
 ______
-![Exit](../screenshots/14_exit.png)
