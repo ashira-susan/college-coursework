@@ -1,0 +1,5 @@
+1|Which keyword is used to define a function in Python?|func|define|def|function|C
+2|Which data type is used to store True or False?|int|bool|string|float|B
+3|Which symbol is used for comments in Python?|//|/* */|#|--|C
+4|Which function is used to display output in Python?|input()|print()|display()|output()|B
+5|Which keyword is used to create a class in Python?|object|class|struct|define|B
