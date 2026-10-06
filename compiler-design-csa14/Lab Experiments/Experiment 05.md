@@ -68,34 +68,6 @@ Total number of characters: 34
 <img width="422" height="357" alt="image" src="https://github.com/user-attachments/assets/74031e39-19f2-4121-9663-a541cf248f23" />
 
 
-## Explanation
-
-The program reads the input text and examines each character.
-
-### 1. Whitespace
-
-The program counts:
-
-- Space `' '`
-- Tab `'\t'`
-
-Whenever either character is found, the `whitespaces` counter is increased.
-
-### 2. Newline Characters
-
-Whenever the newline character `'\n'` is found, the `newlines` counter is increased.
-
-### 3. Other Characters
-
-All characters other than spaces, tabs, and newlines are counted as regular characters.
-
-For example:
-
-```text
-int a;
-```
-
-contains characters as well as a whitespace between `int` and `a`.
 
 ## Result
 
