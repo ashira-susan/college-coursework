@@ -118,43 +118,6 @@ Equal to
 <img width="253" height="170" alt="image" src="https://github.com/user-attachments/assets/db0c96f6-bc96-4bc4-98c0-14bd91d4ca6a" />
 
 
-## Explanation
-
-The program accepts an operator as input and uses a `switch` statement to identify the type of operator.
-
-The operators recognized by the program are:
-
-| Operator | Meaning |
-|----------|---------|
-| `>` | Greater than |
-| `>=` | Greater than or equal |
-| `<` | Less than |
-| `<=` | Less than or equal |
-| `=` | Assignment |
-| `==` | Equal to |
-| `!` | Bit Not |
-| `!=` | Not Equal |
-| `&` | Bitwise AND |
-| `&&` | Logical AND |
-| `|` | Bitwise OR |
-| `||` | Logical OR |
-| `+` | Addition |
-| `-` | Subtraction |
-| `*` | Multiplication |
-| `/` | Division |
-| `%` | Modulus |
-
-For example, when the input is:
-
-```text
-<=
-```
-
-the program first checks the first character `<`. It then checks whether the second character is `=`. Since it is, the program displays:
-
-```text
-Less than or equal
-```
 
 ## Result
 
